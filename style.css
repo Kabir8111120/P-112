@@ -1,0 +1,30 @@
+label
+{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    color: greenyellow;
+}
+h1
+{
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body
+{
+    background-color: darkred;
+}
+#camera, #result
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.style, .style2
+{
+    color: whitesmoke;
+}
+.emoji
+{
+    font-size: 50px;
+}
